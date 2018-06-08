@@ -2,8 +2,11 @@
 
 # Setup
 
-- Create keystore.properties file at Root folder.
-- Add FOOD2FORK_API_KEY = "YOUR_API_KEY". Create via [http://food2fork.com/about/api]
+- Get your Food2Fork API key from [http://food2fork.com/about/api]
+
+- Create a keystore.properties file with the following content (including the quotes) at root directory:
+  FOOD2FORK_API_KEY="YOUR API KEY"
+  
 - Switch branch to see refactor code.
 
 # Any ideas are appreciated
